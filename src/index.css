@@ -11,3 +11,93 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.navbar{
+  background-color: #212529;
+}
+#textone{
+  color: white;
+  margin-left: 20px;
+  font-family: Georgia, Times, "Times New Roman", serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+#navbarText{
+  color: #6D849A;
+}
+#navItems{
+  margin-left: 20%;
+}
+#textTwo{
+  color: white;
+}
+#aboutHeading{
+  font: bold 4rem 'georgia';
+  color: #4A5568;
+}
+#about{
+  margin-top: 20px;
+}
+#AboutImage{
+  margin-top: 20px;
+}
+#imageOne{
+  width: 350px;
+}
+#LineOne{
+  color: #4A5568;
+  font-family: system-ui;
+  font-size: 1rem;
+  font-weight: bold;
+}
+.lineTwo{
+  color: #4A5568;
+  font-family: system-ui;
+  font-size: 1rem;
+}
+#secondBtn{
+  margin-left: 10px;
+}
+#TopLeft{
+  color: white;
+  font-weight: bold;
+  margin-top: 30px;
+  font-size: 2rem;
+}
+#TopLeftPara{
+  margin-top: 10px;
+  color: white;
+
+  font-size: 1rem;
+}
+.bg{
+  margin-top: 20px;
+  background-image: url('../src/Assets/imgtwo.jpg');
+
+}
+#ElectionsImgTwo{
+  margin-top: 40px;
+  margin-bottom: 50px;
+  margin-right: 100px;
+}
+#cards{
+  padding-left: 50px;
+  margin: 20px;
+}
+#cardsTwo{
+  padding-left: 50px;
+  margin: 10px;
+}
+.card-title{
+  color: #4a5568;
+}
+.card-text{
+  color: #4a5568;
+  font-size: 12px;
+}
+#icons{
+  margin-top: 15px;
+}
+#FooterColor{
+  background-color: #1077AD;
+}
